@@ -772,5 +772,5 @@ input[type="submit"]{
     padding: 50px;
   }
 @media(max-width:750px;){
-  display
+  display:none;
 }
